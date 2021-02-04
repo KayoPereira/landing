@@ -26,3 +26,8 @@
     background-color: rgba(66, 66, 66, 0.5);
     transition: .3s ease;
 }
+
+.cards img:hover {
+    width: 110px;
+    transition: 0.3s ease;
+}
