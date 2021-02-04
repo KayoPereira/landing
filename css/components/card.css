@@ -24,4 +24,5 @@
 
 .card:hover {
     background-color: rgba(66, 66, 66, 0.5);
+    transition: .3s ease;
 }
