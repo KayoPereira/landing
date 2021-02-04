@@ -21,3 +21,7 @@
 .cards img {
     width: 100px;
 }
+
+.card:hover {
+    background-color: rgba(66, 66, 66, 0.5);
+}
